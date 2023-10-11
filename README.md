@@ -138,4 +138,4 @@ plt.show()
 
 ### RESULT:
 
-Thus, a Convolutional Autoencoder for Denoising was sucessfully implemented.
+Thus, a convolutional autoencoder for image denoising application was sucessfully implemented.
