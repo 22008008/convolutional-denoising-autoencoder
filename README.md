@@ -1,4 +1,4 @@
-### Convolutional Autoencoder for Image Denoising
+### CONVOLUTIONAL AUTOENCODER FOR IMAGE DENOISING
 
 ## AIM:
 
