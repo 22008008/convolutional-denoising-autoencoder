@@ -14,8 +14,7 @@ The image dataset is given and the model must denoise the images and show it wit
 
 ### Convolution Autoencoder Network Model:
 
-![image](https://github.com/22008008/convolutional-denoising-autoencoder/assets/118343520/d8ee65db-0dc8-47fc-8e1d-98dbd579ddfc)
-
+![image](https://github.com/22008008/convolutional-denoising-autoencoder/assets/118343520/abfb4827-d121-4ff7-8085-de07aeb81b0d)
 
 ### DESIGN STEPS:
 
