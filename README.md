@@ -1,17 +1,13 @@
 ## CONVOLUTIONAL AUTOENCODER FOR IMAGE DENOISING
 
 ## AIM:
-
 ```
 To develop a convolutional autoencoder for image denoising application.
 ```
-
 ### Problem Statement and Dataset:
-
 ```
 The image dataset is given and the model must denoise the images and show it with better quality and remove the unwanted noises and learn to show the better version of the images.
 ```
-
 ### Convolution Autoencoder Network Model:
 
 ![image](https://github.com/22008008/convolutional-denoising-autoencoder/assets/118343520/abfb4827-d121-4ff7-8085-de07aeb81b0d)
@@ -134,7 +130,7 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
 
-![image](https://github.com/22008008/convolutional-denoising-autoencoder/assets/118343520/a05d873b-3c97-452e-b9ea-9855799e165c)
+![image](https://github.com/22008008/convolutional-denoising-autoencoder/assets/118343520/c03baf6e-9b60-4ea4-b368-1f980a3204f0)
 
 ### Original vs Noisy Vs Reconstructed Image:
 
